@@ -162,23 +162,6 @@ select{
     opacity: 0;
     transition: opacity .3s;
 }
-/* #clear::after{
-    content: url(img/Icon.svg);
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    background-color: #fff;
-    cursor: pointer;
-    position: absolute;
-    top: 2px;
-    right: -13px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    visibility: visible;
-    opacity: 0;
-    transition: opacity .3s;
-} */
 .modal__input-label-photo{
     position: absolute;
     font-size: 14px;
